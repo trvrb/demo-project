@@ -1,6 +1,6 @@
 # Demo project
 
-This is a demo project for the TFCB 2018 course.
+This is a demo project for the TFCB 2018 course. Trevor's edit.
 
 Data is in the [data/](data/) directory.
 
