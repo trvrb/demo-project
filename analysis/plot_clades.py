@@ -9,6 +9,8 @@ from datetime import datetime, timedelta
 import json
 from matplotlib.dates import YearLocator, MonthLocator, DateFormatter
 
+# Add comment
+
 drop = 1
 dpi = 200
 resolution = '2y'
